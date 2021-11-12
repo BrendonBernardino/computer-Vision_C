@@ -145,7 +145,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Detection.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Modifymask.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Detection.h" />
+    <ClInclude Include="Modifymask.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
