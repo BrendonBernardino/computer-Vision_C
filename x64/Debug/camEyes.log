@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ravtec\Documents\camEyes\camEyes\main.cpp(64,112): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+  camEyes.vcxproj -> C:\Users\ravtec\Documents\camEyes\x64\Debug\camEyes.exe
