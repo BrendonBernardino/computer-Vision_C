@@ -1,0 +1,3 @@
+[submodule "scanner_Cam"]
+	path = scanner_Cam
+	url = https://github.com/BrendonBernardino/scanner_Cam.git
